@@ -1,5 +1,5 @@
 #include <string>
-#include "SimpleAxe.h"
+#include "Weapon.h"
 
 #ifndef SIMPLEAXE_H
 #define SIMPLEAXE_H

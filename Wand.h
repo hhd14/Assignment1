@@ -1,5 +1,5 @@
 #include <string>
-#include "Wand.h"
+#include "Weapon.h"
 
 #ifndef WAND_H
 #define WAND_H
